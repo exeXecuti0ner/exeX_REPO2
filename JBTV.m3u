@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=”wow.midroll.com/advertiser_survey_analysis/images/usa.png”,USA HQ
 http://216.31.255.235/hlsl/3/USA/USA.m3u8
+#EXTINF:-1 tvg-logo=”vignette1.wikia.nocookie.net/logopedia/images/a/ad/Universal_HD_logo_2008.png”,Universal HQ
+http://216.31.255.235/hlsl/12/UNIVERSAL/UNIVERSAL.m3u8
+#EXTINF:-1 tvg-logo=”s33.postimg.org/uqig9grz3/image.png”,Science HQ
+http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8
+#EXTINF:-1 tvg-logo=”s33.postimg.org/ke3tu4wwv/image.png”,ID HQ
+http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8
+#EXTINF:-1 tvg-name=”Nat Geo Wild HD” tvg-logo=”s33.postimg.org/4pa6xonmn/wild.png”,Nat Geo Wild HQ
+http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8
+#EXTINF:-1 tvg-logo=”pmcdeadline2.files.wordpress.com/2011/04/velocity_logo_20110414162216.png”,Velocity HQ
+http://216.31.255.235/hlsl/6/VELOCITY/VELOCITY.m3u8
+#EXTINF:-1 tvg-ID=”truTV (US)” tvg-name=”TruTV” tvg-logo=”images.bwwstatic.com/tvnetworklogos/13438BA7-D5B6-27ED-A13F3C527EA0DF61.jpg”,TruTV HQ
+http://216.31.255.235/hlsl/7/TRUTV/TRUTV.m3u8
+#EXTINF:-1 tvg-logo=”s33.postimg.org/w7u45lnhb/fxx.png”,FXX HQ
+http://216.31.255.235/hlsl/4/FXX/FXX.m3u8
+#EXTINF:-1 tvg-logo=”s33.postimg.org/hgnb9r03j/comedy_central.png”,Comedy Central HQ
+http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8
+#EXTINF:-1 tvg-logo=”pbs.twimg.com/profile_images/527566993520467968/Zoh-jdUa.jpeg”,H2 USA
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
