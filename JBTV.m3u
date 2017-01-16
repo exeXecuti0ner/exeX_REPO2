@@ -1,6 +1,6 @@
+# exeX_REPO2
+LiveTV Playlist
 #EXTM3U
-#EXTINF:-1 tvg-logo=”https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj2h8LAwbnRAhVM4CYKHWqgDWcQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Finfographics%2Ftv-channel-and-networks-logos%2F&bvm=bv.143423383,d.eWE&psig=AFQjCNFzLQlM8ua4l2Q3-woofUVTaPx23g&ust=1484204160600927”,USA HQ
-http://216.31.255.235/hlsl/3/USA/USA.m3u8
 #EXTINF:-1,A&E
 http://5.226.137.176:9090/load/free123/2.mpegts
 #EXTINF:-1,ABC
