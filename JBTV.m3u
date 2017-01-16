@@ -107,6 +107,33 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/44.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
 #EXTINF:-1    group-title="LIVE TV",DYI Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/85.mpegts
+#EXTINF:-1    group-title="DISNEY",Sky Movies Disney HD
+http://204.27.62.122:9090/load/877cf0fc593e/44.mpegts
+#EXTINF:-1    group-title="DISNEY",Disney Channel
+http://204.27.62.122:9090/load/877cf0fc593e/424.mpegts
+#EXTINF:-1    group-title="DISNEY",Disney Junior UK
+http://204.27.62.122:9090/load/877cf0fc593e/207.mpegts
+#EXTINF:-1    group-title="DISNEY",Disney XD
+http://204.27.62.122:9090/load/877cf0fc593e/422.mpegts
+#EXTINF:-1    group-title="DISNEY",USA: DISNEY JR HD
+http://ksportiptv.com:1557/live/4444/4444/2397.ts
+#EXTINF:-1    group-title="DISNEY",Disney XD
+http://system.fpiptv.com:8080/live/barrientos/barrientos/486.ts
+#EXTINF:-1    group-title="DISNEY",Disney Jr
+http://system.fpiptv.com:8080/live/barrientos/barrientos/485.ts
+#EXTINF:-1    group-title="DISNEY",Disney Channel
+http://system.fpiptv.com:8080/live/barrientos/barrientos/484.ts
+#EXTINF:-1    group-title="DISNEY",Disney XD HD USA
+http://system.fpiptv.com:8080/live/barrientos/barrientos/24.ts
+#EXTINF:-1    group-title="DISNEY",Disney HD USA
+http://system.fpiptv.com:8080/live/barrientos/barrientos/22.ts
+#EXTINF:-1    group-title="DISNEY",USA: DISNEY JR HD
+http://51.255.76.67:1557/live/4444/4444/2397.ts
+#EXTINF:-1    group-title="DISNEY",Sky Movies Disney HD
+http://204.27.62.122:9090/load/877cf0fc593e/44.mpegts
+#EXTINF:-1    group-title="DISNEY",Sky Movies Disney
+http://system.fpiptv.com:8080/live/barrientos/barrientos/148.ts
+
 #EXTINF:-1,A&E
 http://5.226.137.176:9090/load/free123/2.mpegts
 #EXTINF:-1,ABC
@@ -503,8 +530,6 @@ http://204.27.62.122:9090/load/877cf0fc593e/42.mpegts
 http://204.27.62.122:9090/load/877cf0fc593e/41.mpegts
 #EXTINF:-1,Sky Movies Family HD
 http://204.27.62.122:9090/load/877cf0fc593e/38.mpegts
-#EXTINF:-1,Sky Movies Disney HD
-http://204.27.62.122:9090/load/877cf0fc593e/44.mpegts
 #EXTINF:-1,Super Channel 1 US
 http://204.27.62.122:9090/load/877cf0fc593e/1465.mpegts
 #EXTINF:-1,Super Channel 2 US
@@ -833,12 +858,6 @@ http://204.27.62.122:9090/load/877cf0fc593e/471.mpegts
 http://204.27.62.122:9090/load/877cf0fc593e/50.mpegts
 #EXTINF:-1,Boomerang UK
 http://204.27.62.122:9090/load/877cf0fc593e/1396.mpegts
-#EXTINF:-1,Disney Channel
-http://204.27.62.122:9090/load/877cf0fc593e/424.mpegts
-#EXTINF:-1,Disney Junior UK
-http://204.27.62.122:9090/load/877cf0fc593e/207.mpegts
-#EXTINF:-1,Disney XD
-http://204.27.62.122:9090/load/877cf0fc593e/422.mpegts
 #EXTINF:-1,Nick Too
 http://204.27.62.122:9090/load/877cf0fc593e/1224.mpegts
 #EXTINF:-1,Nickelodeon UK
@@ -1163,8 +1182,6 @@ http://ksportiptv.com:1557/live/4444/4444/2393.ts
 http://ksportiptv.com:1557/live/4444/4444/2395.ts
 #EXTINF:-1,USA: LIFE TIME
 http://ksportiptv.com:1557/live/4444/4444/2396.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://ksportiptv.com:1557/live/4444/4444/2397.ts
 #EXTINF:-1,USA: HBO ZONE
 http://ksportiptv.com:1557/live/4444/4444/2445.ts
 #EXTINF:-1,USA: HBO SIGNATURE
@@ -1535,8 +1552,6 @@ http://system.fpiptv.com:8080/live/barrientos/barrientos/151.ts
 http://system.fpiptv.com:8080/live/barrientos/barrientos/150.ts
 #EXTINF:-1,Sky Movies Drama HD
 http://system.fpiptv.com:8080/live/barrientos/barrientos/149.ts
-#EXTINF:-1,Sky Movies Disney
-http://system.fpiptv.com:8080/live/barrientos/barrientos/148.ts
 #EXTINF:-1,Sky Movies Crime & Thriller
 http://system.fpiptv.com:8080/live/barrientos/barrientos/147.ts
 #EXTINF:-1,Sky Movies Comedy HD
@@ -1750,12 +1765,6 @@ http://system.fpiptv.com:8080/live/barrientos/barrientos/1285.ts
 http://system.fpiptv.com:8080/live/barrientos/barrientos/53.ts
 #EXTINF:-1,Nick Jr
 http://system.fpiptv.com:8080/live/barrientos/barrientos/490.ts
-#EXTINF:-1,Disney XD
-http://system.fpiptv.com:8080/live/barrientos/barrientos/486.ts
-#EXTINF:-1,Disney Jr
-http://system.fpiptv.com:8080/live/barrientos/barrientos/485.ts
-#EXTINF:-1,Disney Channel
-http://system.fpiptv.com:8080/live/barrientos/barrientos/484.ts
 #EXTINF:-1,Cartoon Network
 http://system.fpiptv.com:8080/live/barrientos/barrientos/488.ts
 #EXTINF:-1,Boomerang USA
@@ -1807,10 +1816,6 @@ http://system.fpiptv.com:8080/live/barrientos/barrientos/421.ts
 http://system.fpiptv.com:8080/live/barrientos/barrientos/1284.ts
 #EXTINF:-1,DIY NETWORK HD
 http://system.fpiptv.com:8080/live/barrientos/barrientos/75.ts
-#EXTINF:-1,Disney XD HD USA
-http://system.fpiptv.com:8080/live/barrientos/barrientos/24.ts
-#EXTINF:-1,Disney HD USA
-http://system.fpiptv.com:8080/live/barrientos/barrientos/22.ts
 #EXTINF:-1,NAT GEO WILD
 http://system.fpiptv.com:8080/live/barrientos/barrientos/40.ts
 #EXTINF:-1,Nat Geo HD US
@@ -2223,8 +2228,6 @@ http://51.255.76.67:1557/live/4444/4444/2393.ts
 http://51.255.76.67:1557/live/4444/4444/2395.ts
 #EXTINF:-1,USA: LIFE TIME
 http://51.255.76.67:1557/live/4444/4444/2396.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://51.255.76.67:1557/live/4444/4444/2397.ts
 #EXTINF:-1,USA: HBO ZONE
 http://51.255.76.67:1557/live/4444/4444/2445.ts
 #EXTINF:-1,USA: HBO SIGNATURE
