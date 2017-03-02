@@ -1,29 +1,117 @@
 # exeX_REPO2
 LiveTV Playlist
 #EXTM3U
-#EXTINF:0 channelId=”-1″ , ESPN +
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-#EXTINF:0 channelId=”355″ , ESPN 3
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:0 channelId=”1328″ , FOX SPORTS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:0 channelId=”170″ , FOX SPORTS 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
-#EXTINF:0 channelId=”2540″ , ESPN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
-#EXTINF:0 channelId=”344″ , ESPN 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:0 channelId=”-1″ , ESPN + HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:0 channelId=”357″ , ESPN 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-#EXTINF:0 channelId=”2891″ , FOX SPORTS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:0 channelId=”179″ , FOX SPORTS 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:0 channelId=”1263″ , ESPN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:0 channelId=”-1″ , ESPN 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:0 channelId=”-1″ , : Real Madrid Tv HD
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,FR: Bein Sport 1
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/167.ts
+#EXTINF:-1,FR: Bein Sport 2
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/168.ts
+#EXTINF:-1,FR: Bein Sport 3
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/169.ts
+#EXTINF:-1,FR: Bein Sport 4
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/170.ts
+#EXTINF:-1,FR: Bein Sport 5
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/171.ts
+#EXTINF:-1,FR: Bein Sport 6
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/172.ts
+#EXTINF:-1,FR: Bein Sport 7
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/173.ts
+#EXTINF:-1,FR: Bein Sport 8
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/174.ts
+#EXTINF:-1,FR: Bein Sport 9
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/175.ts
+#EXTINF:-1,FR: Bein Sport 10
+http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/176.ts
+#EXTINF:-1,BEIN SPORT 2
+http://tv.iptvsports.net:8080/4dayson/free/432.ch
+#EXTINF:-1,BEIN SPORT 3
+http://tv.iptvsports.net:8080/4dayson/free/433.ch
+#EXTINF:-1,BEIN SPORT 4
+http://tv.iptvsports.net:8080/4dayson/free/434.ch
+#EXTINF:-1,BEIN SPORT 5
+http://tv.iptvsports.net:8080/4dayson/free/435.ch
+#EXTINF:-1,BEIN SPORT 6
+http://tv.iptvsports.net:8080/4dayson/free/436.ch
+#EXTINF:-1,BEIN SPORT 7
+http://tv.iptvsports.net:8080/4dayson/free/437.ch
+#EXTINF:-1,BEIN SPORT 8
+http://tv.iptvsports.net:8080/4dayson/free/438.ch
+#EXTINF:-1,BEIN SPORT 9
+http://tv.iptvsports.net:8080/4dayson/free/439.ch
+#EXTINF:-1,BEIN SPORT FRANCE 1
+http://tv.iptvsports.net:8080/4dayson/free/441.ch
+#EXTINF:-1,BEIN SPORT FRANCE 2
+http://tv.iptvsports.net:8080/4dayson/free/442.ch
+#EXTINF:-1,BEIN SPORT FRANCE 3
+http://tv.iptvsports.net:8080/4dayson/free/443.ch
+#EXTINF:-1,FR: Beinsport 1
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/366.ts
+#EXTINF:-1,FR: Beinsport 2
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/365.ts
+#EXTINF:-1,FR: Beinsport 3
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/364.ts
+#EXTINF:-1,FR: Bein Sport Max 4
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/397.ts
+#EXTINF:-1,FR: Bein Sport Max 5
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/398.ts
+#EXTINF:-1,FR: Bein Sport Max 6
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/399.ts
+#EXTINF:-1,FR: Bein Sport Max 7
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/400.ts
+#EXTINF:-1,FR: Bein Sport Max 8
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/401.ts
+#EXTINF:-1,FR: Bein Sport Max 9
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/402.ts
+#EXTINF:-1,FR: Bein Sport Max 10
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/403.ts
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/169.ts
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/168.ts
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/167.ts
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/166.ts
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/165.ts
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/164.ts
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/163.ts
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/162.ts
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/161.ts
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/160.ts
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/159.ts
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/170.ts
+#EXTINF:-1,AR: Bein Sport 13 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/171.ts
+#EXTINF:-1,AR: Bein Sport 14 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/172.ts
+#EXTINF:-1,AR: Bein Sport 15 HD
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/173.ts
+#EXTINF:-1,AR: Bein Sport 1 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2472.ts
+#EXTINF:-1,AR: Bein Sport 2 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2473.ts
+#EXTINF:-1,AR: Bein Sport 3 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2481.ts
+#EXTINF:-1,AR: Bein Sport 4 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2474.ts
+#EXTINF:-1,AR: Bein Sport 5 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2475.ts
+#EXTINF:-1,AR: Bein Sport 6 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2476.ts
+#EXTINF:-1,AR: Bein Sport 7 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2477.ts
+#EXTINF:-1,AR: Bein Sport 8 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2478.ts
+#EXTINF:-1,AR: Bein Sport 9 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2479.ts
+#EXTINF:-1,AR: Bein Sport 10 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2480.ts
+#EXTINF:-1,AR: Bein Sport 11 Low
+http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2486.ts
