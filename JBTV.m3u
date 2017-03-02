@@ -1,117 +1,480 @@
 # exeX_REPO2
 LiveTV Playlist
 #EXTM3U
-#EXTINF:-1,FR: Bein Sport 1
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/167.ts
-#EXTINF:-1,FR: Bein Sport 2
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/168.ts
-#EXTINF:-1,FR: Bein Sport 3
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/169.ts
-#EXTINF:-1,FR: Bein Sport 4
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/170.ts
-#EXTINF:-1,FR: Bein Sport 5
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/171.ts
-#EXTINF:-1,FR: Bein Sport 6
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/172.ts
-#EXTINF:-1,FR: Bein Sport 7
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/173.ts
-#EXTINF:-1,FR: Bein Sport 8
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/174.ts
-#EXTINF:-1,FR: Bein Sport 9
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/175.ts
-#EXTINF:-1,FR: Bein Sport 10
-http://cmskos.fastiptv.org:777/live/GzimSopi/TbflPU0LzF/176.ts
-#EXTINF:-1,BEIN SPORT 2
-http://tv.iptvsports.net:8080/4dayson/free/432.ch
-#EXTINF:-1,BEIN SPORT 3
-http://tv.iptvsports.net:8080/4dayson/free/433.ch
-#EXTINF:-1,BEIN SPORT 4
-http://tv.iptvsports.net:8080/4dayson/free/434.ch
-#EXTINF:-1,BEIN SPORT 5
-http://tv.iptvsports.net:8080/4dayson/free/435.ch
-#EXTINF:-1,BEIN SPORT 6
-http://tv.iptvsports.net:8080/4dayson/free/436.ch
-#EXTINF:-1,BEIN SPORT 7
-http://tv.iptvsports.net:8080/4dayson/free/437.ch
-#EXTINF:-1,BEIN SPORT 8
-http://tv.iptvsports.net:8080/4dayson/free/438.ch
-#EXTINF:-1,BEIN SPORT 9
-http://tv.iptvsports.net:8080/4dayson/free/439.ch
-#EXTINF:-1,BEIN SPORT FRANCE 1
-http://tv.iptvsports.net:8080/4dayson/free/441.ch
-#EXTINF:-1,BEIN SPORT FRANCE 2
-http://tv.iptvsports.net:8080/4dayson/free/442.ch
-#EXTINF:-1,BEIN SPORT FRANCE 3
-http://tv.iptvsports.net:8080/4dayson/free/443.ch
-#EXTINF:-1,FR: Beinsport 1
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/366.ts
-#EXTINF:-1,FR: Beinsport 2
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/365.ts
-#EXTINF:-1,FR: Beinsport 3
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/364.ts
-#EXTINF:-1,FR: Bein Sport Max 4
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/397.ts
-#EXTINF:-1,FR: Bein Sport Max 5
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/398.ts
-#EXTINF:-1,FR: Bein Sport Max 6
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/399.ts
-#EXTINF:-1,FR: Bein Sport Max 7
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/400.ts
-#EXTINF:-1,FR: Bein Sport Max 8
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/401.ts
-#EXTINF:-1,FR: Bein Sport Max 9
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/402.ts
-#EXTINF:-1,FR: Bein Sport Max 10
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/403.ts
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/169.ts
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/168.ts
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/167.ts
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/166.ts
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/165.ts
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/164.ts
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/163.ts
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/162.ts
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/161.ts
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/160.ts
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/159.ts
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/170.ts
-#EXTINF:-1,AR: Bein Sport 13 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/171.ts
-#EXTINF:-1,AR: Bein Sport 14 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/172.ts
-#EXTINF:-1,AR: Bein Sport 15 HD
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/173.ts
-#EXTINF:-1,AR: Bein Sport 1 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2472.ts
-#EXTINF:-1,AR: Bein Sport 2 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2473.ts
-#EXTINF:-1,AR: Bein Sport 3 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2481.ts
-#EXTINF:-1,AR: Bein Sport 4 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2474.ts
-#EXTINF:-1,AR: Bein Sport 5 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2475.ts
-#EXTINF:-1,AR: Bein Sport 6 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2476.ts
-#EXTINF:-1,AR: Bein Sport 7 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2477.ts
-#EXTINF:-1,AR: Bein Sport 8 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2478.ts
-#EXTINF:-1,AR: Bein Sport 9 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2479.ts
-#EXTINF:-1,AR: Bein Sport 10 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2480.ts
-#EXTINF:-1,AR: Bein Sport 11 Low
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/2486.ts
+#EXTINF:0,###–USA-CHANNELS–###
+http://163.172.42.177:25461/live/test/test/2826.ts
+#EXTINF:0,USA:FOX-HD
+http://163.172.42.177:25461/live/test/test/2833.ts
+#EXTINF:0,USA:FOX-NEWS
+http://163.172.42.177:25461/live/test/test/2828.ts
+#EXTINF:0,USA:CNN
+http://163.172.42.177:25461/live/test/test/2829.ts
+#EXTINF:0,USA: ABC News
+http://163.172.42.177:25461/live/test/test/2806.ts
+#EXTINF:0,USA:E4-HD
+http://163.172.42.177:25461/live/test/test/2836.ts
+#EXTINF:0,USA:BET
+http://163.172.42.177:25461/live/test/test/2832.ts
+#EXTINF:0,USA:5USA
+http://163.172.42.177:25461/live/test/test/2837.ts
+#EXTINF:0,USA: USA Network
+http://163.172.42.177:25461/live/test/test/2825.ts
+#EXTINF:0,USA:FIGHT-BOX
+http://163.172.42.177:25461/live/test/test/2840.ts
+#EXTINF:0,USA:FIGHT-SPORT
+http://163.172.42.177:25461/live/test/test/2841.ts
+#EXTINF:0,Pac12 Mountain
+http://163.172.42.177:25461/live/test/test/3647.ts
+#EXTINF:0,Pac12 Oregon
+http://163.172.42.177:25461/live/test/test/3646.ts
+#EXTINF:0,USA | PAC-12 Arizona
+http://163.172.42.177:25461/live/test/test/3650.ts
+#EXTINF:0,USA | PAC-12 Bay Area
+http://163.172.42.177:25461/live/test/test/3651.ts
+#EXTINF:0,USA | PAC-12 Los Angeles
+http://163.172.42.177:25461/live/test/test/3649.ts
+#EXTINF:0,USA: TSN Sport 1
+http://163.172.42.177:25461/live/test/test/2623.ts
+#EXTINF:0,USA: TSN Sport 2
+http://163.172.42.177:25461/live/test/test/2809.ts
+#EXTINF:0,USA: TSN Sport 3
+http://163.172.42.177:25461/live/test/test/2810.ts
+#EXTINF:0,USA: TSN Sport 4
+http://163.172.42.177:25461/live/test/test/2811.ts
+#EXTINF:0,USA: TSN Sport 5
+http://163.172.42.177:25461/live/test/test/2812.ts
+#EXTINF:0,USA: FOX Sports 1
+http://163.172.42.177:25461/live/test/test/2814.ts
+#EXTINF:0,USA: FOX Sport 1 HD
+http://163.172.42.177:25461/live/test/test/2628.ts
+#EXTINF:0,USA: FOX Sport 2 HD
+http://163.172.42.177:25461/live/test/test/2813.ts
+#EXTINF:0,USA: Fox Sports 506 HD
+http://163.172.42.177:25461/live/test/test/2838.ts
+#EXTINF:0,US: Motor Sports 7 HD
+http://163.172.42.177:25461/live/test/test/2787.ts
+#EXTINF:0,US: WWE
+http://163.172.42.177:25461/live/test/test/2762.ts
+#EXTINF:0,USA: BTN Sport HD
+http://163.172.42.177:25461/live/test/test/2817.ts
+#EXTINF:0,USA: TEN Golf HD
+http://163.172.42.177:25461/live/test/test/2823.ts
+#EXTINF:0,USA: NBA US HD
+http://163.172.42.177:25461/live/test/test/2819.ts
+#EXTINF:0,USA: ESPN 2 HD
+http://163.172.42.177:25461/live/test/test/2821.ts
+#EXTINF:0,US:HSN-1
+http://163.172.42.177:25461/live/test/test/2853.ts
+#EXTINF:0,US:HSN-2
+http://163.172.42.177:25461/live/test/test/2854.ts
+#EXTINF:0,USA: NFL Network
+http://163.172.42.177:25461/live/test/test/2843.ts
+#EXTINF:0,USA: NASA TV HD
+http://163.172.42.177:25461/live/test/test/2824.ts
+#EXTINF:0,USA: ABS-CBN News Channel
+http://163.172.42.177:25461/live/test/test/2831.ts
+#EXTINF:0,US:UC-TV
+http://163.172.42.177:25461/live/test/test/2847.ts
+#EXTINF:0,US:Travel-Channe_HD
+http://163.172.42.177:25461/live/test/test/2849.ts
+#EXTINF:0,US:HBO-ZONE
+http://163.172.42.177:25461/live/test/test/2855.ts
+#EXTINF:0,US:HBO-SIGNATURE
+http://163.172.42.177:25461/live/test/test/2856.ts
+#EXTINF:0,US:HBO-COMEDY
+http://163.172.42.177:25461/live/test/test/2857.ts
+#EXTINF:0,US:HALLMARK
+http://163.172.42.177:25461/live/test/test/2858.ts
+#EXTINF:0,US:H2
+http://163.172.42.177:25461/live/test/test/2859.ts
+#EXTINF:0,US:Food-Network
+http://163.172.42.177:25461/live/test/test/2860.ts
+#EXTINF:0,US:Discovery-Science_HD
+http://163.172.42.177:25461/live/test/test/2861.ts
+#EXTINF:0,US:CBS-DRAMA
+http://163.172.42.177:25461/live/test/test/2862.ts
+#EXTINF:0,US:BYU-Sports_HD
+http://163.172.42.177:25461/live/test/test/2839.ts
+#EXTINF:0,US:ABC
+http://163.172.42.177:25461/live/test/test/2807.ts
+#EXTINF:0,US: World Fashion HD
+http://163.172.42.177:25461/live/test/test/2763.ts
+#EXTINF:0,US: WGN News Chicago
+http://163.172.42.177:25461/live/test/test/2765.ts
+#EXTINF:0,US: Tru TV
+http://163.172.42.177:25461/live/test/test/2769.ts
+#EXTINF:0,US: TLC
+http://163.172.42.177:25461/live/test/test/2771.ts
+#EXTINF:0,US: The Florida Channel
+http://163.172.42.177:25461/live/test/test/2772.ts
+#EXTINF:0,US: Ten Cricket
+http://163.172.42.177:25461/live/test/test/2773.ts
+#EXTINF:0,US: TBS HD
+http://163.172.42.177:25461/live/test/test/2775.ts
+#EXTINF:0,US: SyFy US
+http://163.172.42.177:25461/live/test/test/2776.ts
+#EXTINF:0,US: Starz Edge
+http://163.172.42.177:25461/live/test/test/2777.ts
+#EXTINF:0,US: Starz Cinema HD
+http://163.172.42.177:25461/live/test/test/2778.ts
+#EXTINF:0,USA:TNT HD US
+http://163.172.42.177:25461/live/test/test/3759.ts
+#EXTINF:0,USA:USA HD US
+http://163.172.42.177:25461/live/test/test/3760.ts
+#EXTINF:0,USA:WE East HD
+http://163.172.42.177:25461/live/test/test/3761.ts
+#EXTINF:0,USA:WPIX NY US
+http://163.172.42.177:25461/live/test/test/3762.ts
+#EXTINF:0,US: RT Documentary
+http://163.172.42.177:25461/live/test/test/2780.ts
+#EXTINF:0,US: O.W.N HD (oprah winfrey network)
+http://163.172.42.177:25461/live/test/test/2782.ts
+#EXTINF:0,US: Nicktoons
+http://163.172.42.177:25461/live/test/test/2783.ts
+#EXTINF:0,US: AFN NEWS
+http://163.172.42.177:25461/live/test/test/2802.ts
+#EXTINF:0,US: NBCSN
+http://163.172.42.177:25461/live/test/test/2784.ts
+#EXTINF:0,US: NBC HD
+http://163.172.42.177:25461/live/test/test/2785.ts
+#EXTINF:0,US: Investigation Discovery
+http://163.172.42.177:25461/live/test/test/2788.ts
+#EXTINF:0,US: HBO HD
+http://163.172.42.177:25461/live/test/test/2808.ts
+#EXTINF:0,US: HBO East
+http://163.172.42.177:25461/live/test/test/2792.ts
+#EXTINF:0,US: Discovery Showcase HD
+http://163.172.42.177:25461/live/test/test/2795.ts
+#EXTINF:0,US: Discovery Channel HD
+http://163.172.42.177:25461/live/test/test/2796.ts
+#EXTINF:0,US: Spac
+http://163.172.42.177:25461/live/test/test/2798.ts
+#EXTINF:0,US: CNBC
+http://163.172.42.177:25461/live/test/test/2800.ts
+#EXTINF:0,US: CBSN HD
+http://163.172.42.177:25461/live/test/test/2801.ts
+#EXTINF:0,US: CBS HD
+http://163.172.42.177:25461/live/test/test/2834.ts
+#EXTINF:0,US: Bloomberg
+http://163.172.42.177:25461/live/test/test/2803.ts
+#EXTINF:0,US: Animal Planet
+http://163.172.42.177:25461/live/test/test/2804.ts
+#EXTINF:0,USA BRAVO HD
+http://163.172.42.177:25461/live/test/test/2402.ts
+
+#EXTINF:-1,USA: AFN Fam Pulse
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33027.ts
+#EXTINF:-1,USA: AFN Fox News
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33026.ts
+#EXTINF:-1,USA: AFN Movie
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33025.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33024.ts
+#EXTINF:-1,USA: AFN Prime Pacific
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33023.ts
+#EXTINF:-1,USA: AFN Spectrum
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33022.ts
+#EXTINF:-1,USA: AFN Sports
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33021.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33020.ts
+#EXTINF:-1,USA: AMC HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33035.ts
+#EXTINF:-1,USA: Action Max HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33034.ts
+#EXTINF:-1,USA: Willow & Cricket HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33033.ts
+#EXTINF:-1,USA: HBO
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33043.ts
+#EXTINF:-1,USA: HBO Comedy
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33044.ts
+#EXTINF:-1,USA: HBO Signature
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33045.ts
+#EXTINF:-1,USA: HBO Zone
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33046.ts
+#EXTINF:-1,USA: USA NETWORK HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33075.ts
+#EXTINF:-1,USA: Starz HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33062.ts
+#EXTINF:-1,USA: Starz Cinema HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33060.ts
+#EXTINF:-1,USA: Showtime
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33055.ts
+#EXTINF:-1,USA: Fox HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33014.ts
+#EXTINF:-1,USA: FX HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24885.ts
+#EXTINF:-1,USA: FXX HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33015.ts
+#EXTINF:-1,USA: BRAVO HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33016.ts
+#EXTINF:-1,USA: E! HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33017.ts
+#EXTINF:-1,USA: VH 1
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33076.ts
+#EXTINF:-1,USA: TBS HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33074.ts
+#EXTINF:-1,USA: Syfy HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33079.ts
+#EXTINF:-1,USA: SPIKE HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33073.ts
+#EXTINF:-1,USA: NBC
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33052.ts
+#EXTINF:-1,USA: Nat Geo HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33051.ts
+#EXTINF:-1,USA: MoreMax HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33050.ts
+#EXTINF:-1,USA: Investigation Discovery HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33048.ts
+#EXTINF:-1,USA: HSN
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33069.ts
+#EXTINF:-1,USA: History US
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33047.ts
+#EXTINF:-1,USA: Discovery SC HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33039.ts
+#EXTINF:-1,USA: CW HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33067.ts
+#EXTINF:-1,USA: Comedy Central US
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33038.ts
+#EXTINF:-1,USA: CNBC
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33037.ts
+#EXTINF:-1,USA: CBS HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33036.ts
+#EXTINF:-1,USA: Cartoon Network
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33071.ts
+#EXTINF:-1,USA: BLOOMBERG
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33066.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33065.ts
+#EXTINF:-1,USA: ABN Kids HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33456.ts
+#EXTINF:-1,USA: ABN HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33455.ts
+#EXTINF:-1,USA: FOX SPORT 1 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/30411.ts
+#EXTINF:-1,USA: FOX SPORT 2 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/30412.ts
+#EXTINF:-1,USA: TSN 1 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/30406.ts
+#EXTINF:-1,USA: TSN 2 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/30407.ts
+#EXTINF:-1,USA: TSN 3 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/30408.ts
+#EXTINF:-1,USA: TSN 4 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/30409.ts
+#EXTINF:-1,USA: TSN 5 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/30410.ts
+#EXTINF:-1,USA: NBCSN HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/32509.ts
+#EXTINF:-1,USA: Sports Net World HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33059.ts
+#EXTINF:-1,USA: Sports Net Ontario HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33058.ts
+#EXTINF:-1,USA: Sports Net One HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33057.ts
+#EXTINF:-1,USA: Sports Net 360 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33056.ts
+#EXTINF:-1,USA ESPN USA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/15767.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/15749.ts
+#EXTINF:-1,USA ESPN 2
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/15768.ts
+#EXTINF:-1,USA: ESPN News HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33040.ts
+#EXTINF:-1,USA: ESPN U HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33041.ts
+#EXTINF:-1,USA: CBS SPORT NETWORK
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33077.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33063.ts
+#EXTINF:-1,USA: WWE Network HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33064.ts
+#EXTINF:-1,USA: NHL Network HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33054.ts
+#EXTINF:-1,USA: NFL Channel HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33053.ts
+#EXTINF:-1,USA: MLB Network HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33049.ts
+#EXTINF:-1,USA: Golf HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33078.ts
+#EXTINF:-1,USA: Fight Network
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33042.ts
+#EXTINF:-1,USA: NBC EXTRA TIME HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/32510.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 2 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/32511.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 3 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/32512.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 4 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/32513.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 5 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/32514.ts
+#EXTINF:-1,USA: Poker TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25029.ts
+#EXTINF:-1,USA: NBA TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24886.ts
+#EXTINF:-1,USA: Bein USA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/15775.ts
+#EXTINF:-1,--- NEWS USA ----
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33029.ts
+#EXTINF:-1,USA: Fox News HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24252.ts
+#EXTINF:-1,USA: CNN HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24251.ts
+#EXTINF:-1,USA: FOX 47
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25648.ts
+#EXTINF:-1,USA: CBN
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25035.ts
+#EXTINF:-1,USA: NEWSMAX TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24249.ts
+#EXTINF:-1,USA: Fox 5
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33476.ts
+#EXTINF:-1,USA: Fox 5 Las Vegas
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33470.ts
+#EXTINF:-1,USA: Fox 6
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33475.ts
+#EXTINF:-1,USA: Fox 11
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33480.ts
+#EXTINF:-1,USA: Fox 13 Tampa Bay
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33479.ts
+#EXTINF:-1,USA: FOX 23
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24261.ts
+#EXTINF:-1,USA: FOX 25
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33461.ts
+#EXTINF:-1,USA: FOX 30
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24260.ts
+#EXTINF:-1,USA: Fox 35 Orlando
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33478.ts
+#EXTINF:-1,USA: Fox 40 Sacramento
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33477.ts
+#EXTINF:-1,USA: Fox 61
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33474.ts
+#EXTINF:-1,USA: KPHO
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33473.ts
+#EXTINF:-1,USA: KVOA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33472.ts
+#EXTINF:-1,USA: Miami 7 News
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33471.ts
+#EXTINF:-1,USA: KIRO 7 News
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24262.ts
+#EXTINF:-1,USA: CBS 47
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24259.ts
+#EXTINF:-1,USA: CBS NEWS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24248.ts
+#EXTINF:-1,USA: WFTV 9 NEWS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33462.ts
+#EXTINF:-1,USA: WGN 9 NEWS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33463.ts
+#EXTINF:-1,USA: WPXI NEWS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33464.ts
+#EXTINF:-1,USA: WSOC 9 NEWS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33465.ts
+#EXTINF:-1,USA: New York TSQ Cam
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33469.ts
+#EXTINF:-1,USA: New York TSQ Cam 1
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33468.ts
+#EXTINF:-1,USA: New York TSQ Cam 2
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33467.ts
+#EXTINF:-1,USA: New York TSQ Cam 3
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33466.ts
+#EXTINF:-1,USA | ABC LIVE 1
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23034.ts
+#EXTINF:-1,USA | ABC LIVE 2
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23035.ts
+#EXTINF:-1,USA | ABC LIVE 3
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23036.ts
+#EXTINF:-1,USA | ABC LIVE 4
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23037.ts
+#EXTINF:-1,USA | ABC LIVE 5
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23038.ts
+#EXTINF:-1,USA | C SPAN 1
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23039.ts
+#EXTINF:-1,USA | C SPAN 2
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23040.ts
+#EXTINF:-1,USA | C SPAN 3
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/23041.ts
+#EXTINF:-1,USA: ABC NEWS (LQ)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4662.ts
+#EXTINF:-1,USA: News 12 Long Island(Stream 1)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4663.ts
+#EXTINF:-1,USA: News Bronx(Stream 1)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4664.ts
+#EXTINF:-1,USA: News Bronx(Weather)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4665.ts
+#EXTINF:-1,USA: News Brooklyn(Stream 1)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4666.ts
+#EXTINF:-1,USA: News Connecticut
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4667.ts
+#EXTINF:-1,USA: News Connecticut(Weather)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4668.ts
+#EXTINF:-1,USA: News Hudson Valley
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4669.ts
+#EXTINF:-1,USA: News Hudson Valley(Weather)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4670.ts
+#EXTINF:-1,USA: News Long Island(Weather)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4672.ts
+#EXTINF:-1,USA: News New Jersey
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4673.ts
+#EXTINF:-1,USA: News New Jersey(Weather)
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4674.ts
+#EXTINF:-1,USA: News Westchester
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4675.ts
+#EXTINF:-1,USA: KTBS LA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33527.ts
+#EXTINF:-1,USA: Manhattan Skyline NY
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33520.ts
+#EXTINF:-1,USA: NEWS 12 NY
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33528.ts
+#EXTINF:-1,USA: News12 Hudson Valley NY New York
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33521.ts
+#EXTINF:-1,USA: News12 Long Island NY New York
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33523.ts
+#EXTINF:-1,USA: Traffic & Weather HV NY New York
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33522.ts
+#EXTINF:-1,USA: Traffic & Weather LI NY New York
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33524.ts
+#EXTINF:-1,USA: UATV AK Alaska
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33526.ts
+#EXTINF:-1,USA: WNBC 4 News
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33529.ts
+#EXTINF:-1,USA: Wealth TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25028.ts
+#EXTINF:-1,USA: TVA Canada
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25037.ts
+#EXTINF:-1,USA: TSC
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25036.ts
+#EXTINF:-1,USA: TBN
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25030.ts
+#EXTINF:-1,USA: Savoir TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25032.ts
+#EXTINF:-1,USA: MIRACLE CH
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25034.ts
+#EXTINF:-1,USA: CHCH
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/25033.ts
+#EXTINF:-1,USA: Church Channel
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24884.ts
+#EXTINF:-1,USA: Juce TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24889.ts
+#EXTINF:-1,USA: 360 North Usa
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24882.ts
+#EXTINF:-1,USA: Cape Coral Florida
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24257.ts
+#EXTINF:-1,USA: Kiss Tv Music
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4579.ts
+#EXTINF:-1,USA: Coral Springs
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/24258.ts
+#EXTINF:-1,USA: Florida Channel
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4616.ts
+#EXTINF:-1,USA: LONDON LIVE
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4644.ts
+#EXTINF:-1,USA: Williax
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4597.ts
+#EXTINF:-1,USA: NASA TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4653.ts
+#EXTINF:-1,USA: CANAL 26 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4599.ts
+#EXTINF:-1,USA: Canal 4 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4604.ts
+#EXTINF:-1,USA: Dominicana TeleAntillas 2 HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/4610.ts
